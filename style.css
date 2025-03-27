@@ -1,0 +1,12 @@
+.title{
+    text-align: center;
+}
+.button:hover{
+    cursor: pointer;
+    background-color: aqua;
+    color: black;
+}
+#output{
+    text-align: center;
+    font-size: xx-large;
+}
